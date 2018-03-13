@@ -1,9 +1,9 @@
 # Ng2app  （heroes  完整demo项目）
 下载完成后  
-执行：
+安装包文件
 npm install
+启动项目
 ng serve --open
-即可启动项目
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
 
