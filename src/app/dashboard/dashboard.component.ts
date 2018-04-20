@@ -20,6 +20,7 @@ export class DashboardComponent implements OnInit {
   toggleCollapsed() {
     this.isCollapsed = !this.isCollapsed;
   }
+
   ngOnInit() {
     this.getHeroes();
   }
